@@ -16,8 +16,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="20" height="20"></b>
-  - [JS Calculator]()
-  - [JS Observation]()
+  - [JS Calculator](https://github.com/vmp576/JSCalculator)
+  - [JS Observation](https://github.com/vmp576/JSObservation)
 - <b>Java <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JavaScript" width="20" height="20"></b>
   - [Java War (Card Game)]()
  

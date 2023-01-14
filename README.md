@@ -8,7 +8,6 @@
   - [Configuring On-premises Active Directory within Azure VMs]()
   - [Modifying DNS Records]()
   - [Network File Shares and Permissions]()
-  
 - <b>osTicket 🦘 (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation]()
   - [osTicket: Post-Installation Configuration]()

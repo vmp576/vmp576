@@ -15,4 +15,4 @@
 
 [<img align="left" alt="Vinz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/vinz576/ target="_blank"
+[linkedin]: https://www.linkedin.com/in/vinz576/

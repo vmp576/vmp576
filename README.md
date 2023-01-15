@@ -18,9 +18,6 @@
 - <b>JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="20" height="20"></b>
   - [JS Calculator](https://github.com/vmp576/JSCalculator)
   - [JS Observation](https://github.com/vmp576/JSObservation)
-- <b>Java <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JavaScript" width="20" height="20"></b>
-  - [Java War (Card Game)]()
- 
 
 <h2>🔗Connect with me:</h2>
 

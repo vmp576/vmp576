@@ -3,9 +3,8 @@
 <h2>🖥 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure 🌥</b>
-  - [Creating a Virtual Machine on Azure](https://github.com/vmp576/)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
-  - [Configuring On-premises Active Directory within Azure VMs]()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vmp576/azure-inspecting-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/vmp576/azure-active-directory)
   - [Modifying DNS Records]()
   - [Network File Shares and Permissions]()
 - <b>osTicket 🦘 (Help Desk Ticketing System)</b>

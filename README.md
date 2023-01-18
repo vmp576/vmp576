@@ -8,7 +8,7 @@
   - [Modifying DNS Records]()
   - [Network File Shares and Permissions]()
 - <b>osTicket 🦘 (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]()
+  - [osTicket: Prerequisites and Installation](https://github.com/vmp576/osticket-install)
   - [osTicket: Post-Installation Configuration]()
   - [osTicket: Ticket Lifecycle Examples]()
 

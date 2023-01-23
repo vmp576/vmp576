@@ -5,7 +5,6 @@
 - <b>Microsoft Azure 🌥</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vmp576/azure-inspecting-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/vmp576/azure-active-directory)
-  - [Modifying DNS Records]()
   - [Network File Shares and Permissions]()
 - <b>osTicket 🦘 (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/vmp576/osticket-install)

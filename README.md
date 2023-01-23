@@ -9,7 +9,7 @@
   - [Network File Shares and Permissions]()
 - <b>osTicket 🦘 (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/vmp576/osticket-install)
-  - [osTicket: Post-Installation Configuration]()
+  - [osTicket: Post-Installation Configuration](https://github.com/vmp576/osticket-post-install)
   - [osTicket: Ticket Lifecycle Examples]()
 
 <h2>👨‍💻 Software Development Projects:</h2>

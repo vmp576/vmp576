@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vinz, an <a href="https://www.linkedin.com/in/vinz576/" target="_blank">IT Professional</a>😊</h1>
+<h1>Hi, I'm Vinz, an <a href="https://www.linkedin.com/in/vinz576/" target="_blank">IT Student</a>😊</h1>
 
 <h2>🖥 Information Technology Projects:</h2>
 
@@ -19,5 +19,3 @@
 <h2>🔗Connect with me:</h2>
 
 [<img align="left" alt="Vinz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/vinz576/

@@ -15,7 +15,3 @@
 - <b>JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="20" height="20"></b>
   - [JS Calculator](https://github.com/vmp576/JSCalculator)
   - [JS Observation](https://github.com/vmp576/JSObservation)
-
-<h2>🔗Connect with me:</h2>
-
-[<img align="left" alt="Vinz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

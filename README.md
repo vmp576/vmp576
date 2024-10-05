@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vinz, an <a href="https://www.linkedin.com/in/vinz576/" target="_blank">IT Student</a>😊</h1>
+<h1>Hi, I'm Vinz, an <a href="https://www.linkedin.com/in/vinz576/" target="_blank">IT Graduate</a>😊</h1>
 
 <h2>🖥 Information Technology Projects:</h2>
 
